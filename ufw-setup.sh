@@ -2,7 +2,7 @@
 
 # ============================================================
 #   🔥 Remnawave Firewall Setup Script
-#   GitHub: https://github.com/your-username/remnawave-firewall
+#   GitHub: https://github.com/kafka7005/ufw-setup
 # ============================================================
 
 RED='\033[0;31m'
